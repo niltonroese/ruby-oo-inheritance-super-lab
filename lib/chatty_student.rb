@@ -10,5 +10,11 @@ class ChattyStudent < Student
             super
         end
     end
-
+    # i=0 
+    # loop do
+    #     i=i+1
+    #     super
+    # if(i==10)
+    #     break
+    # end
 end
